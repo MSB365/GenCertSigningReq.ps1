@@ -1,0 +1,3 @@
+Creating SSL Certificate Requests needs a lot of Time, so the Solution is - PowerShell!
+Reinout Segers wrote a fantastic Script how to create easy an SSL Certificate Request by PowerShell, I edited it a bit and I Post it here on my Blog.
+Have fun with it...
